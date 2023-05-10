@@ -1,0 +1,15 @@
+T:\APIPO\Dev\C#\TrainerGUI\bin\Debug\net7.0-windows\TrainerGUI.exe
+T:\APIPO\Dev\C#\TrainerGUI\bin\Debug\net7.0-windows\TrainerGUI.deps.json
+T:\APIPO\Dev\C#\TrainerGUI\bin\Debug\net7.0-windows\TrainerGUI.runtimeconfig.json
+T:\APIPO\Dev\C#\TrainerGUI\bin\Debug\net7.0-windows\TrainerGUI.dll
+T:\APIPO\Dev\C#\TrainerGUI\bin\Debug\net7.0-windows\TrainerGUI.pdb
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.csproj.AssemblyReference.cache
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.GeneratedMSBuildEditorConfig.editorconfig
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.AssemblyInfoInputs.cache
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.AssemblyInfo.cs
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.csproj.CoreCompileInputs.cache
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.dll
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\refint\TrainerGUI.dll
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.pdb
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\TrainerGUI.genruntimeconfig.cache
+T:\APIPO\Dev\C#\TrainerGUI\obj\Debug\net7.0-windows\ref\TrainerGUI.dll

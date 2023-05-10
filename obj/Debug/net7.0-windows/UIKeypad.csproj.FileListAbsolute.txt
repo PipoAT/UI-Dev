@@ -1,0 +1,15 @@
+T:\APIPO\Dev\C#\UIKeypad\bin\Debug\net7.0-windows\UIKeypad.exe
+T:\APIPO\Dev\C#\UIKeypad\bin\Debug\net7.0-windows\UIKeypad.deps.json
+T:\APIPO\Dev\C#\UIKeypad\bin\Debug\net7.0-windows\UIKeypad.runtimeconfig.json
+T:\APIPO\Dev\C#\UIKeypad\bin\Debug\net7.0-windows\UIKeypad.dll
+T:\APIPO\Dev\C#\UIKeypad\bin\Debug\net7.0-windows\UIKeypad.pdb
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.csproj.AssemblyReference.cache
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.GeneratedMSBuildEditorConfig.editorconfig
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.AssemblyInfoInputs.cache
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.AssemblyInfo.cs
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.csproj.CoreCompileInputs.cache
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.dll
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\refint\UIKeypad.dll
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.pdb
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\UIKeypad.genruntimeconfig.cache
+T:\APIPO\Dev\C#\UIKeypad\obj\Debug\net7.0-windows\ref\UIKeypad.dll

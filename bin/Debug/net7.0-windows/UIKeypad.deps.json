@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UIKeypad/1.0.0": {
+        "runtime": {
+          "UIKeypad.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UIKeypad/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
